@@ -1,48 +1,6 @@
-- name: "\U0001F3F3️‍\U0001F308"
-  password: 26bae9b023
-  server: h961359.droplet.today
-  type: http
-  port: 11745
-  username: dcf12c7e7d
-  tls: true
-  skip-cert-verify: true
-- name: "\U0001F3F3️‍⚧️"
-  password: 26bae9b023
-  server: h961359.droplet.today
-  type: http
-  port: 11545
-  username: dcf12c7e7d
-  tls: true
-  skip-cert-verify: true
-- name: "\U0001F1FA\U0001F1F8"
-  password: 26bae9b023
-  server: h961684.droplet.today
-  type: http
-  port: 11445
-  username: dcf12c7e7d
-  tls: true
-  skip-cert-verify: true
-- name: "\U0001F1EF\U0001F1F5"
-  password: 26bae9b023
-  server: h961359.droplet.today
-  type: http
-  port: 11445
-  username: dcf12c7e7d
-  tls: true
-  skip-cert-verify: true
-- name: "\U0001F1F0\U0001F1F7"
-  password: 26bae9b023
-  server: h961359.droplet.today
-  type: http
-  port: 11245
-  username: dcf12c7e7d
-  tls: true
-  skip-cert-verify: true
-- name: "\U0001F1ED\U0001F1F0"
-  password: 26bae9b023
-  server: h890361.droplet.today
-  type: http
-  port: 11445
-  username: dcf12c7e7d
-  tls: true
-  skip-cert-verify: true
+一键连① = https, h961359.droplet.today, 11745, username=dcf12c7e7d, password=26bae9b023, skip-cert-verify=true, tfo=true
+一键连② = https, h961359.droplet.today, 11545, username=dcf12c7e7d, password=26bae9b023, skip-cert-verify=true, tfo=true
+一键连③ = https, h961684.droplet.today, 11445, username=dcf12c7e7d, password=26bae9b023, skip-cert-verify=true, tfo=true
+一键连④ = https, h961359.droplet.today, 11445, username=dcf12c7e7d, password=26bae9b023, skip-cert-verify=true, tfo=true
+一键连⑤ = https, h961359.droplet.today, 11245, username=dcf12c7e7d, password=26bae9b023, skip-cert-verify=true, tfo=true
+一键连⑥ = https, h890361.droplet.today, 11445, username=dcf12c7e7d, password=26bae9b023, skip-cert-verify=true, tfo=true
